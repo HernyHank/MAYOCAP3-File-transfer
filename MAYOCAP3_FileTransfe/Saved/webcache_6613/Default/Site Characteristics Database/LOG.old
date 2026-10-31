@@ -1,0 +1,5 @@
+2026/10/31-15:29:12.667 1ae0 Log #3: 3 ops saved to Table #4 OK
+2026/10/31-15:29:12.667 1ae0 Archiving D:\FileTransfer\MAYOCAP3-File-transfer\MAYOCAP3_FileTransfe\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/10/31-15:29:12.667 1ae0 Table #4: 3 entries OK
+2026/10/31-15:29:12.668 1ae0 Archiving D:\FileTransfer\MAYOCAP3-File-transfer\MAYOCAP3_FileTransfe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/10/31-15:29:12.758 1ae0 **** Repaired leveldb D:\FileTransfer\MAYOCAP3-File-transfer\MAYOCAP3_FileTransfe\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 229 bytes. Some data may have been lost. ****

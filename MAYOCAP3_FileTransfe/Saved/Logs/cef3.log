@@ -1,9 +1,15 @@
-[23400:27144:1031/152500.328:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[23400:15140:1031/152500.383:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[23400:27144:1031/152500.398:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[11708:33208:1031/152506.755:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8E5D06D75BF9CB8DB0D3814D7A9A2129 will be ignored
-[37136:21340:1031/152506.821:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-CF1FBC938BA286D318207F9FD111FB16 will be ignored
-[23740:37580:1031/152507.043:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[32976:40912:1031/152646.232:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-03A9D0D9EE002CA9BF8508CDE642BF46 will be ignored
-[32976:40912:1031/152646.233:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-03A9D0D9EE002CA9BF8508CDE642BF46 will be ignored
-[23400:27144:1031/152646.298:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[24920:14040:1031/152912.430:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24920:14040:1031/152912.513:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[24920:26100:1031/152912.543:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24920:14040:1031/152912.566:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24920:9296:1031/152915.733:WARNING:leveldb_database.cc(141)] Unable to open D:\FileTransfer\MAYOCAP3-File-transfer\MAYOCAP3_FileTransfe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\FileTransfer\MAYOCAP3-File-transfer\MAYOCAP3_FileTransfe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24920:9296:1031/152915.735:WARNING:leveldb_database.cc(141)] Unable to open D:\FileTransfer\MAYOCAP3-File-transfer\MAYOCAP3_FileTransfe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\FileTransfer\MAYOCAP3-File-transfer\MAYOCAP3_FileTransfe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24920:9296:1031/152915.736:WARNING:leveldb_database.cc(141)] Unable to open D:\FileTransfer\MAYOCAP3-File-transfer\MAYOCAP3_FileTransfe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\FileTransfer\MAYOCAP3-File-transfer\MAYOCAP3_FileTransfe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24920:9296:1031/152915.737:WARNING:leveldb_database.cc(141)] Unable to open D:\FileTransfer\MAYOCAP3-File-transfer\MAYOCAP3_FileTransfe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\FileTransfer\MAYOCAP3-File-transfer\MAYOCAP3_FileTransfe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24920:9296:1031/152918.102:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24920:9296:1031/152918.107:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17460:29228:1031/152919.024:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E33B493A6DE06ECE1705582F28CE72C8 will be ignored
+[15688:6888:1031/152919.292:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-EA1DEDBDB79ED73100F06BBF68BE024E will be ignored
+[28196:24612:1031/152950.804:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-FD89B192D73C8C979B6ED708A2B284B4 will be ignored
+[28196:24612:1031/152950.804:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-FD89B192D73C8C979B6ED708A2B284B4 will be ignored
+[24920:14040:1031/152951.011:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
